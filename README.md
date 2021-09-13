@@ -1,5 +1,5 @@
 # Water-Level-Indicator-Python
-A python based project designed on Raspberry-Pi that would take the readings of water level in a tank using Ultra-Sonic Sensor, displays the water level, plots the graph and performs auto correlation of the graph.
+A python based project designed on Raspberry-Pi that takes reads the water level in a tank, displays the water level, generates a graph and performs auto correlation of the graph.
 
 ## Write.py
 This file would take the values of Ultra sonic sensor and stores them in a text file
